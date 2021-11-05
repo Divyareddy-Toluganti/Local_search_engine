@@ -1,0 +1,3 @@
+Inverted Index
+It is an data structure.Most operational Information retrieval system are based on Information Retrieval.As the word says, an index maps back the term to the document where they occur .We keep a dictionary of terms ,it is the basic idea of the inverted index .Using the document Id,Posting list was  sorted and In alphabetical order the dictionary was sorted.
+A posting list or inverted list is a list that consists of records of the term occurrence in the documents.Each item in list is posting.Inverted Index becomes standard term in information retrieval .In simple words, it is a hashmap like data structure that directs you from a word to a document or a web page.

@@ -1,0 +1,5 @@
+Define Precision and Recall
+Precision is the total number of documents retrieved that are relevant is divided by the total number of documents that are retrieved. Recall is the total number of documents retrieved that are relevant is divided by the total number of relevant documents in the database.
+They are the measures used in the Information retrieval process to know how efficient the Information Retrieval system retrieves the relevant documents required by the user.
+These terms are used in the confusion matrix.They will be categorized into 4 classes
+Relevant and Retrieved,Relevant and Not Retrieved,Non-Relevant and Retrieved,Non-Relevant and Not Retrieved
